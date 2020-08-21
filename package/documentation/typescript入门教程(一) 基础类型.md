@@ -1,15 +1,9 @@
 ---
-title: 'TypeScript入门教程(一) - 基础类型'
-date: 2019-11-24 08:13:23
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/typescript-ru-men-jiao-cheng-yi-ji-chu-lei-xing.jpeg
-isTop: false
+title: "TypeScript入门教程(一) - 基础类型"
+date: 2018-10-04 11:00
+tags:
+ - TypeScript
 ---
-
-<!-- more -->
-
 `Typescript`中的基础类型和`JavaScript`中定义的五种基本类型(`Number`,`String`,`Boolean`,`Undefined`,`Null`)几乎相同,还新增了枚举类型,接下来我们详细介绍`TypeScript`中的基础类型
 <!--more-->
 

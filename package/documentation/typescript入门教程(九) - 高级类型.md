@@ -1,11 +1,8 @@
 ---
-title: 'TypeScript入门教程(九) - 高级类型'
-date: 2019-11-24 08:16:51
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/typescript-ru-men-jiao-cheng-jiu-gao-ji-lei-xing.jpeg
-isTop: false
+title: "TypeScript入门教程(九) - 高级类型"
+date: 2018-10-17 19:00
+tags:
+ - TypeScript
 ---
 高级类型(交叉类型,联合类型,类型保护与区分类型,类型别名,字符串字面量类型,数字字面量类型,枚举成员类型,多态的this类型,索引类型,映射类型)我们会对10种进行详情介绍
 <!--more-->

@@ -1,14 +1,12 @@
 ---
-title: 'js设计模式-单例模式'
-date: 2019-11-24 09:12:11
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/js-she-ji-mo-shi-dan-li-mo-shi.jpg
-isTop: false
+title: js设计模式单例模式
+date: 2017-08-21 09:46:30
+tags: [设计模式]
 ---
 单例模式是一种常见的模式，有一些对象我们往往只需要一个，比如线程池、全局缓存、浏览器中的window对象等。在js开发中，单例模式的用途同样非常广泛......
 <!--more-->
+### JavaScript 设计模式-单例模式
+
 ### 单例模式的定义
 * 定义：`保证一个类仅有一个实例，并提供一个访问它的全局访问点。`
 

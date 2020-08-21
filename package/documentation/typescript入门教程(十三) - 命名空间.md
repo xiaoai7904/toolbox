@@ -1,12 +1,10 @@
 ---
-title: 'TypeScript入门教程(十三) - 命名空间'
-date: 2019-11-24 08:17:56
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/typescript-ru-men-jiao-cheng-shi-san-ming-ming-kong-jian.jpeg
-isTop: false
+title: "TypeScript入门教程(十三) - 命名空间"
+date: 2018-10-22 19:40
+tags:
+ - TypeScript
 ---
+
 描述了如何在TypeScript里使用命名空间（之前叫做“内部模块”）来组织你的代码。任何使用`module`关键字来声明一个内部模块的地方都应该使用`namespace`关键字来替换
 <!--more-->
 

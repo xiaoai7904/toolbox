@@ -1,12 +1,12 @@
 ---
-title: 'TypeScript入门教程(十一) - 迭代器和生成器'
-date: 2019-11-24 08:17:20
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/typescript-ru-men-jiao-cheng-shi-yi-die-dai-qi-he-sheng-cheng-qi.jpeg
-isTop: false
+title: "TypeScript入门教程(十一) - 迭代器和生成器"
+date: 2018-10-18 19:20
+tags:
+ - TypeScript
 ---
+
+迭代器和生成器
+<!--more-->
 ### for..of 语句
 
 ```typescript

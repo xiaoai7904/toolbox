@@ -1,11 +1,8 @@
 ---
-title: 'js原型继承五条基本原'
-date: 2019-11-24 09:13:01
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/js-yuan-xing-ji-cheng-wu-tiao-ji-ben-yuan.png
-isTop: false
+title: js原型继承五条基本原则
+date: 2017-08-23 09:12:52
+tags: [学习笔记]
+categories: js原型继承
 ---
 
 js中的原型继承，遵守5个基本原则：

@@ -1,12 +1,10 @@
 ---
-title: 'TypeScript入门教程(十) - Symbols'
-date: 2019-11-24 08:17:10
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/typescript-ru-men-jiao-cheng-shi-symbols.jpeg
-isTop: false
+title: "TypeScript入门教程(十) - Symbols"
+date: 2018-10-18 15:40
+tags:
+ - TypeScript
 ---
+
 自ECMAScript 2015(ES6)起，symbol成为了一种新的原生类型，就像number和string一样
 <!--more-->
 

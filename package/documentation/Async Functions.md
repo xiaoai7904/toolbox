@@ -1,13 +1,12 @@
 ---
-title: 'Async Function'
-date: 2019-11-24 09:28:21
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: https://i2.wp.com/www.geekstrick.com/wp-content/uploads/2018/07/async-await-in-javascript.png?w=756&ssl=1
+title: "Async Functions"
+date: 2019-11-23 15:30
+tags:
+ - javascript
 ---
+
 Chrome 55 中默认情况下启用异步函数，坦率地讲，它们的作用相当不可思议。 可以利用它们像编写同步代码那样编写基于 Promise 的代码，而且还不会阻塞主线程。 它们可以让异步代码“智商”下降、可读性提高。
-<!--more-->
+
 异步函数的工作方式是这样的：
 
 ```javascript
@@ -22,6 +21,7 @@ async function myFirstAsyncFunction() {
 ```
 
 如果在函数定义之前使用了 async 关键字，就可以在函数内使用 await。 当您 await 某个 Promise 时，函数暂停执行，直至该 Promise 产生结果，并且暂停并不会阻塞主线程。 如果 Promise 执行，则会返回值。 如果 Promise 拒绝，则会抛出拒绝的值。
+<!--more-->
 
 #### 示例
 

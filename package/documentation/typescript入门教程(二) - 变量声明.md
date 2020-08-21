@@ -1,11 +1,8 @@
 ---
-title: 'TypeScript入门教程(二) - 变量声明'
-date: 2019-11-24 08:14:17
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/typescript-ru-men-jiao-cheng-er-bian-liang-sheng-ming.jpeg
-isTop: false
+title: "TypeScript入门教程(二) - 变量声明"
+date: 2018-10-05 13:00
+tags:
+ - TypeScript
 ---
 在es5中js声明变量是通过`var`关键字进行变量声明，在es6中我们可以通过`let`,`const`两个关键字来进行声明，typescript中支持`let`,`const`进行声明变量
 <!--more-->

@@ -1,11 +1,8 @@
 ---
-title: 'TypeScript入门教程(八) - 类型推断'
-date: 2019-11-24 08:16:35
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/typescript-ru-men-jiao-cheng-ba-lei-xing-tui-duan.jpeg
-isTop: false
+title: "TypeScript入门教程(八) - 类型推断"
+date: 2018-10-15 14:00
+tags:
+ - TypeScript
 ---
 
 `typescript`类型是在那里如何被推断的？

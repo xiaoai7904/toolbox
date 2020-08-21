@@ -1,13 +1,9 @@
 ---
-title: 'TypeScript入门教程(三) - 接口'
-date: 2019-11-24 08:14:59
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/typescript-ru-men-jiao-cheng-san-jie-kou.jpeg
-isTop: false
+title: "TypeScript入门教程(三) - 接口"
+date: 2018-10-06 16:00
+tags:
+ - TypeScript
 ---
-
 TypeScript的核心原则之一是对值所具有的结构进行类型检查。 它有时被称做“鸭式辨型法”或“结构性子类型化”。 在TypeScript里，接口的作用就是为这些类型命名和为你的代码或第三方代码定义契约
 <!--more-->
 

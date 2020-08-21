@@ -1,11 +1,3 @@
----
-title: 'JSON.stringify和JSON.parse'
-date: 2019-12-09 09:55:19
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: https://www.jiangweishan.com/zb_users/upload/2019/05/201905071557215190103671.jpg
----
 在日常开发中，我们会使用到`JSON.stringify`和`JSON.parse`对json数据进行转换,也可以通过这两个方法进行数据深度拷贝
 <!--more-->
 

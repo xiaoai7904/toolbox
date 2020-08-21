@@ -1,12 +1,3 @@
----
-title: 'JavaScript Promis'
-date: 2020-08-09 09:10:12
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: https://jstobigdata.com/wp-content/uploads/2019/10/promise-in-javascript.min_-800x419.png
-isTop: false
----
 ### Promise
 
 解决传统方案`回调函数和事件`一个新的异步编程解决方案,目前原生`Promise`已经支持大部分浏览器

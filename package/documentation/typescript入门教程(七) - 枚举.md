@@ -1,12 +1,10 @@
 ---
-title: 'TypeScript入门教程(七) - 枚'
-date: 2019-11-24 08:16:13
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/typescript-ru-men-jiao-cheng-qi-mei.jpeg
-isTop: false
+title: "TypeScript入门教程(七) - 枚举"
+date: 2018-10-10 14:00
+tags:
+ - TypeScript
 ---
+
 使用枚举我们可以定义一些带名字的常量。 使用枚举可以清晰地表达意图或创建一组有区别的用例。 TypeScript支持数字的和基于字符串的枚举
 <!--more-->
 

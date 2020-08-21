@@ -1,11 +1,10 @@
 ---
-title: 'Service Worker'
-date: 2019-11-25 07:29:07
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: https://i.morioh.com/43a6583b02.png
+title: "Service Worker"
+date: 2019-11-20 15:30
+tags:
+ - javascript
 ---
+
 丰富的离线体验、定期的后台同步以及推送通知等通常需要将面向本机应用的功能将引入到网页应用中。 Service Worker 提供所有这些功能所依赖的技术基础。
 <!--more-->
 

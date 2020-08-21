@@ -1,10 +1,8 @@
 ---
-title: 'CSS BEM书写规'
-date: 2019-11-24 10:27:51
-tags: [Css]
-published: true
-hideInList: false
-feature: https://snipcart.com/media/203926/bem-css-methodology.png?width=800&format=webp&quality=80&upscale=false
+title: "CSS BEM书写规范"
+date: 2018-10-31 20:00
+tags:
+ - Css
 ---
 `BEM`的意思就是块（`block`）、元素（`element`）、修饰符（`modifier`）,是由[Yandex](https://yandex.ru/)团队提出的一种前端命名方法论。这种巧妙的命名方法让你的CSS类对其他开发者来说更加透明而且更有意义。BEM命名约定更加严格，而且包含更多的信息，它们用于一个团队开发一个耗时的大项目
 <!--more-->

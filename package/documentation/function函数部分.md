@@ -1,13 +1,13 @@
 ---
-title: 'JavaScript函数'
-date: 2018-03-23 09:10:05
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/javascript-han-shu.jpg
-isTop: false
----
+title: Javascript Function和函数学习笔记
+date: 2017-8-16 15:29
+tags: [学习笔记]
+categories: javascript函数
 
+---
+详细介绍javascript中函数的使用
+<!-- more -->
+## JavaScript函数
 ### 概念
 * 函数是由事件驱动的或者当它被调用执行的可复用的代码块
 

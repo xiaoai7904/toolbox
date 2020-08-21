@@ -1,13 +1,9 @@
 ---
-title: 'TypeScript入门教程(五) - 函'
-date: 2019-11-24 08:15:38
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/typescript-ru-men-jiao-cheng-wu-han.jpeg
-isTop: false
+title: "TypeScript入门教程(五) - 函数"
+date: 2018-10-08 19:29
+tags:
+ - TypeScript
 ---
-
 函数是由事件驱动的或者当它被调用时执行的可重复使用的代码块
 <!--more-->
 

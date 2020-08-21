@@ -1,11 +1,8 @@
 ---
-title: 'TypeScript入门教程(四) - 类'
-date: 2019-11-24 08:15:21
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/typescript-ru-men-jiao-cheng-si-lei.jpeg
-isTop: false
+title: "TypeScript入门教程(四) - 类"
+date: 2018-10-07 19:00
+tags:
+ - TypeScript
 ---
 
 在传统`JavaScript`中类是基于原型模拟出来的类，在ES6中新增`class`关键字来书写基于类的面向对象(底层还是基于原型的方式)

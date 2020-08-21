@@ -1,12 +1,10 @@
 ---
-title: 'TypeScript入门教程(十二) - 模块'
-date: 2019-11-24 08:17:44
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/typescript-ru-men-jiao-cheng-shi-er-mo-kuai.jpeg
-isTop: false
+title: "TypeScript入门教程(十二) - 模块"
+date: 2018-10-20 14:20
+tags:
+ - TypeScript
 ---
+
 模块是在自身的作用域执行,也就是说在一个模块里面声明的变量,类,函数都是在模块中可见,模块外面是不可见的，除非使用`export`导出,其他模块使用`import`引入就可以使用其他模块导出的变量,类,函数等
 <!--more-->
 

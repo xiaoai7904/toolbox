@@ -1,11 +1,8 @@
 ---
-title: 'TypeScript入门教程(六) - 泛型'
-date: 2019-11-24 08:16:00
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/typescript-ru-men-jiao-cheng-liu-fan-xing.jpeg
-isTop: false
+title: "TypeScript入门教程(六) - 泛型"
+date: 2018-10-09 20:00
+tags:
+ - TypeScript
 ---
 
 > **维基百科**  泛型是程序设计语言的一种风格或范式。泛型允许程序员在强类型程序设计语言中编写代码时使用一些以后才指定的类型，在实例化时作为参数指明这些类型

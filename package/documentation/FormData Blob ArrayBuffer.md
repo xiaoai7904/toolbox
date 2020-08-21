@@ -1,12 +1,10 @@
 ---
-title: 'FromData Blob ArrayBuffe'
-date: 2019-11-24 09:28:07
-tags: [JavaScript]
-published: true
-hideInList: false
-feature: /post-images/fromdata-blob-arraybuffe.png
-isTop: false
+title: "FromData Blob ArrayBuffer"
+date: 2018-11-1 19:44
+tags:
+ - javascript
 ---
+
 利用`FormData`对象,我们可以通过`JavaScript`用一些键值对来模拟一系列表单控件,我们还可以使用`XMLHttpRequest`的`send()`方法来异步的提交这个"表单",`Blob`对象表示一个不可变、原始数据的类文件对象,`ArrayBuffer`对象用来表示通用的、固定长度的原始二进制数据缓冲区
 <!--more-->
 
